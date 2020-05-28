@@ -1,5 +1,5 @@
 import React, { useState} from 'react';
-import './newTodoFOrm.css'
+import './newTodoForm.css'
 
 const TodoListForm=() =>{
     const [inputValue, setInputValue]= useState('');
